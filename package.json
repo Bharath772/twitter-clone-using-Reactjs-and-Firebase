@@ -5,6 +5,7 @@
     "@mui/icons-material": "^6.3.1",
     "@mui/material": "^6.3.1",
     "firebase": "^11.1.0",
+    "framer-motion": "^11.16.4",
     "react-twitter-embed": "^4.0.4"
   }
 }
